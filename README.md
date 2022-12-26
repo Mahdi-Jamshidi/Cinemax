@@ -1,6 +1,6 @@
 # Cinemax
 
-##Technologies used in this project:
+## Technologies used in this project:
 
 mvvm
 
