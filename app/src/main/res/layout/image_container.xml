@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/soft"
+    android:adjustViewBounds="true"
+    app:cardCornerRadius="10dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_loading"
+        android:layout_gravity="center"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/test" />
+
+
+    <TextView
+        android:id="@+id/tv_slider_movie_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="this is test text"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="24dp"/>
+    <TextView
+        android:id="@+id/tv_slider_release_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="release date"
+        android:textColor="@color/white_grey"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="8dp"/>
+
+</androidx.cardview.widget.CardView>

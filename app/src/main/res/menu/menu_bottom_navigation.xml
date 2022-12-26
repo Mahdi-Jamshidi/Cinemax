@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:checkable="true"
+        android:checked="true"
+        app:cnb_iconColor="@color/blue_accent"/>
+
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:cnb_iconColor="@color/blue_accent"/>
+    <item
+        android:id="@+id/menu_trailers"
+        android:icon="@drawable/ic_trailer"
+        android:title="Trailers"
+        app:cnb_iconColor="@color/blue_accent"/>
+    <item
+        android:id="@+id/menu_saved"
+        android:icon="@drawable/ic_wishlist"
+        android:title="Wishlist"
+        app:cnb_iconColor="@color/blue_accent"/>
+</menu>
