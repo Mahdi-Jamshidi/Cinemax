@@ -14,30 +14,10 @@
 
 ###
 
-<img align="left" height="300" src="https://s8.uupload.ir/files/photo_3_2023-03-23_09-53-23_4fkr.jpg"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="297" src="https://s8.uupload.ir/files/photo_5_2023-03-23_09-53-23_1ztn.jpg"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="300" src="https://s8.uupload.ir/files/photo_6_2023-03-23_09-53-23_q2mn.jpg"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="300" src="https://s8.uupload.ir/files/photo_7_2023-03-23_09-53-23_pfzy.jpg"  />
-
-###
-
-<div align="left">
-  <img height="300" src="https://s8.uupload.ir/files/photo_8_2023-03-23_09-53-23_rhh4.jpg"  />
-</div>
+<p float="left">
+  <img src="https://s8.uupload.ir/files/photo_5_2023-03-23_09-53-23_1ztn.jpg" width="100" />
+  <img src="https://s8.uupload.ir/files/photo_6_2023-03-23_09-53-23_q2mn.jpg" width="100" /> 
+  <img src="https://s8.uupload.ir/files/photo_7_2023-03-23_09-53-23_pfzy.jpg" width="100" />
+</p>
 
 ###
