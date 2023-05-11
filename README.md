@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Screen shots:</h3>
+## Screen shots
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-
+## Preview
 https://github.com/MagicCodes01/Cinemax/assets/101273209/bec77cb2-02b7-460b-8b91-469b3aeb4088
 
 
